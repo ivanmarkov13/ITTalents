@@ -40,31 +40,7 @@ public class CasinoRoyaleDemo {
 			System.out.println(player2.getName() + " taken cards:");
 			player2.printTakenCards();
 			
-		}
-		
-		
-		
-//		
-//		player1.shuffleDeck(cards);
-//		System.out.println("The shuffled cards look like this:");
-//		cards.printCards();
-//		
-//		player1.razdai(cards, player2);
-//		
-//		
-//		System.out.println();
-//		
-//		System.out.println("The cards of Player 1:");
-//		player1.printPlayerDeck();
-//		
-//		System.out.println();
-//		
-//		System.out.println("The cards of Player 2:");
-//		player2.printPlayerDeck();
-	
-		
-		                      
-				
+		}		
 	}
 
 }
