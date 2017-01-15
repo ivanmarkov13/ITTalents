@@ -48,7 +48,7 @@ public class CardDeck {
 			}
 		}
 		else
-		if(!this.isPlayingDeck){
+		if(maxNumCards > 0){
 			this.numCards = 0;
 			this.maxNumCards = maxNumCards;
 			this.isPlayingDeck = isPlayingDeck;
